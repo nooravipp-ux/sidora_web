@@ -1,0 +1,17 @@
+.orpres-text {
+    color: white;
+    font-size: 25px;
+}
+
+.orpres-text-description {
+    color: white;
+}
+
+thead {
+    background-color: #2dc997;
+    color: white;
+}
+
+@media only screen and (max-width: 768px) {
+
+}
